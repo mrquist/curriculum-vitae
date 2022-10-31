@@ -1,5 +1,14 @@
 @import url(//db.onlinewebfonts.com/c/05289e866fe7e1e99d27a7a31f8d3b66?family=Trattatello);
 
+@font-face {font-family: "Trattatello";
+    src: url("http://db.onlinewebfonts.com/t/05289e866fe7e1e99d27a7a31f8d3b66.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/05289e866fe7e1e99d27a7a31f8d3b66.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/05289e866fe7e1e99d27a7a31f8d3b66.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/05289e866fe7e1e99d27a7a31f8d3b66.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/05289e866fe7e1e99d27a7a31f8d3b66.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/05289e866fe7e1e99d27a7a31f8d3b66.svg#Trattatello") format("svg"); /* iOS 4.1- */
+}
+
 * {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
